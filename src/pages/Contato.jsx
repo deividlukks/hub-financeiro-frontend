@@ -1,0 +1,1 @@
+// Contato.jsx placeholder
